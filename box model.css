@@ -1,0 +1,16 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+ }
+ 
+ 
+.my-style {
+    background-color: aqua;
+    color: blue;
+    padding-left: 20px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 20px;
+    margin: 20px;
+    display: block;
+}

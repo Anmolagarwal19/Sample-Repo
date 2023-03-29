@@ -1,0 +1,27 @@
+.my-style {
+   background-color: aqua;
+   color: blue; 
+   border: 3px solid #000; 
+   line-height: 5cm;
+   letter-spacing: 2cqh;
+   text-align: right;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: lighter;
+}
+
+#my-id {
+   background-color: blueviolet;
+   color: #000;
+}
+
+p {
+   background-color: lightpink;
+   color: deeppink;
+}
+<!--overwrite-->
+h1 {
+   color: #000;
+}
+
+ 
+
